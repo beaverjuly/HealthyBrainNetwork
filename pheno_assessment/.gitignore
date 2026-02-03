@@ -1,0 +1,17 @@
+# macOS
+.DS_Store
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Data (usually don't commit raw data)
+data/raw/
+data/interim/
+
+# Results (often large / regenerated)
+results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/

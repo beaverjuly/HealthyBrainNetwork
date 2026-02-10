@@ -1,0 +1,7 @@
+tables:
+  AdverseChildhoodExperiencesScale_child:
+    filename: AdverseChildhoodExperiencesScale_child.csv
+    key: [subject_id, eventname]
+  ChildBehaviorChecklist_parent:
+    filename: ChildBehaviorChecklist_parent.csv
+    key: [subject_id, eventname]

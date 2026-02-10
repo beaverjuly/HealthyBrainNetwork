@@ -1,0 +1,7 @@
+project_root: /Users/yizj/Desktop/HBN/pheno_assessment
+
+data:
+  raw: data/raw
+  interim: data/interim
+  synth: data/synth
+  reports: data/reports

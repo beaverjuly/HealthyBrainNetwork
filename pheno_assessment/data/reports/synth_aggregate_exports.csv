@@ -1,0 +1,14 @@
+file,synth_path,rows,cols
+AdverseChildhoodExperiencesScale_child.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/AdverseChildhoodExperiencesScale_child_aggregates.csv,77,3
+AdverseChildhoodExperiencesScale_parent.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/AdverseChildhoodExperiencesScale_parent_aggregates.csv,2197,3
+ChildBehaviorChecklist_parent.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/ChildBehaviorChecklist_parent_aggregates.csv,4301,26
+ChildBehaviorChecklist_parentPreschool.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/ChildBehaviorChecklist_parentPreschool_aggregates.csv,161,31
+ChildrensDepressionInventory_child.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/ChildrensDepressionInventory_child_aggregates.csv,175,16
+ChildrensDepressionInventory_parent.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/ChildrensDepressionInventory_parent_aggregates.csv,210,8
+ConnersADHDRatingScales.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/ConnersADHDRatingScales_aggregates.csv,3256,14
+ConnersAdultADHDRatingScales.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/ConnersAdultADHDRatingScales_aggregates.csv,121,12
+NegativeLifeEventsScale_child.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/NegativeLifeEventsScale_child_aggregates.csv,1251,6
+NegativeLifeEventsScale_parent.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/NegativeLifeEventsScale_parent_aggregates.csv,4148,6
+ScreenForChildAnxietyRelatedDisorders_child.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/ScreenForChildAnxietyRelatedDisorders_child_aggregates.csv,3187,8
+ScreenForChildAnxietyRelatedDisorders_parent.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/ScreenForChildAnxietyRelatedDisorders_parent_aggregates.csv,4177,8
+StateTraitAnxietyInventory.csv,/Users/yizj/Desktop/HBN/pheno_assessment/data/synth/StateTraitAnxietyInventory_aggregates.csv,73,8
